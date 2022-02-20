@@ -1,11 +1,11 @@
 package main
 import (
 	"fmt"
-	"users"
+	"github.com/sargaras/SellerX/src/users"
 )
  
 func main() {
-	a:=Users(1,2.)
+	a:=users.Users(1,2.)
 
     fmt.Println("Hello Go!")
 }
